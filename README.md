@@ -1,4 +1,11 @@
-# Pixel Art Maker Project with JavaScript
+# Pixel Art Maker Project with JavaScript only
+
+# Live Page
+
+https://stamatisdeli.github.io/pixel-art-maker-js-only.github.io/
+
+
+## Description
 
 I made this exercise with Javascript only.
 It was tottaly different than JQuery, because the selectors have different workings.
